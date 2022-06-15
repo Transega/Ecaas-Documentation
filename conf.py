@@ -10,9 +10,13 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
+from datetime import date
 import os
 import sys
 sys.path.insert(0, os.path.abspath('..'))
+
+
+today = date.today()
 
 
 # -- Project information -----------------------------------------------------
@@ -34,10 +38,16 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.napoleon',
     'sphinx.ext.viewcode',
+    'sphinx_git',
+    'sphinxcontrib.email'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
+
+# If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
+# using the given strftime format.
+html_last_updated_fmt = '%b %d, %Y'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -52,13 +62,16 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 #
 html_theme = 'sphinx_rtd_theme'
 
-# html_context = {
-#     # "display_github": True,  # Add 'Edit on Github' link instead of 'View page source'
-#     "last_updated": True,
-#     "commit": False,
-# }
+html_context = {
+    # "display_github": True,  # Add 'Edit on Github' link instead of 'View page source'
+    "last_updated": today,
+    "commit": False,
+}
 
 html_show_sourcelink = False
+
+# If true, "Created using Sphinx" is shown in the HTML footer. Default is True.
+html_show_sphinx = False
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
