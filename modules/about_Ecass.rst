@@ -52,6 +52,7 @@ ECAAS Project is a free and open-source system, that is lincesed under
 the GNU General Public Lincense, Version 2.0 or later.
 
 *Note!*
+
 The products generated with boundary names and extends do not imply 
 official endorsement by Pula 
 
