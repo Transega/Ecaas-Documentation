@@ -41,6 +41,18 @@ Mr. Stephen Korir, Ms. Lulu Saida, Mr. Elijah Njoroge and Mr Francis Amani
 Aknowledgement
 --------------
 
+Special Appreciation to Tetra Tech, on the support affored during the project 
+implementation phase. We also acknoledge the support from our partners in Kenya,
+and Zambia 
+
+Lincense
+--------
+
+ECAAS Project is a free and open-source system, that is lincesed under 
+the GNU General Public Lincense, Version 2.0 or later.
+
+
+
 
 
 
