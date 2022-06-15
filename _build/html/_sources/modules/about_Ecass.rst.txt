@@ -36,7 +36,7 @@ This project was Implementated by  `Pula Advisors`_.
 .. _Pula Advisors: https://www.pula-advisors.com/
 
 Contributors to this project include; Ms. Rose Goslinga, Mr Thomas Njeru, Mr. Cristain Andrei, Dr. Sudhakar Manda, Mr. Mwenda Mugendi,
-Mr. Stephen Korir, Ms. Lulu Saida, Mr. Elijah Njoroge and Mr Francis Amani 
+Mr. Stephen Korir, Ms. Lulu Saida, Mr. Elijah Njoroge and Mr. Francis Amani 
 
 Aknowledgement
 --------------
