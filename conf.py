@@ -52,11 +52,11 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 #
 html_theme = 'sphinx_rtd_theme'
 
-html_context = {
-    # "display_github": True,  # Add 'Edit on Github' link instead of 'View page source'
-    "last_updated": True,
-    "commit": False,
-}
+# html_context = {
+#     # "display_github": True,  # Add 'Edit on Github' link instead of 'View page source'
+#     "last_updated": True,
+#     "commit": False,
+# }
 
 html_show_sourcelink = False
 
