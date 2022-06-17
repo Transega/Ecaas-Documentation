@@ -30,7 +30,7 @@ a. Kenya
 
 b. Zambia 
 
-*Crops of Interest*
+**Crops of Interest**
 
 Various Crops were targeted this includes;
 
@@ -46,14 +46,32 @@ This project was Implementated by  `Pula Advisors`_.
 
 .. _Pula Advisors: https://www.pula-advisors.com/
 
-Contributors to this project were drawn from different departments; Ms. Rose Goslinga, Mr Thomas Njeru, Mr. Cristain Andrei, Dr. Sudhakar Manda, Mr. Mwenda Mugendi,
-Mr. Stephen Korir, Ms. Lulu Saida, Mr. Elijah Njoroge and Mr. Francis Amani 
+Contributors to this project were drawn from different departments including;  
+
+* President and co-founder(s);
+    Ms. Rose Goslinga, Mr Thomas Njeru
+
+* Applied Research
+    Dr. Sudhakar Manda, Mr. Mwenda Mugendi, Mr. Stephen Korir, Mr Elijah Njoroge, Mr. Collins Asega
+
+* Innovations 
+    Mr. Cristain Andrei, Mr. Francis Amani, Mr. Steve Kogo
+
+* Partnerships
+    Ms. Lulu Saida
+
+* Field Operations 
+    Mr. James Obarowski, Ms. Agnes Kanjala, Ms. Viola Lwenje, Mr. Edwin Kiptoo, Mr. Wesley Kirui, Ms. Everlyne Wabuyabo, Ms. Esther Mwadime
+
+
+
+
 
 Aknowledgement
 --------------
 
-Special Appreciation to Tetra Tech, on the support affored during the project 
-implementation phase. We also acknoledge the support from our partners in Kenya,
+Special Appreciation to Tetra Tech, on the support granted during the project 
+implementation phase. We also acknowledge the support from our partners in Kenya,
 and Zambia 
 
 Lincense
