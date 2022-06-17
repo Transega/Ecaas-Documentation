@@ -62,7 +62,7 @@ html_theme = 'sphinx_rtd_theme'
 
 html_context = {
     # "display_github": True,  # Add 'Edit on Github' link instead of 'View page source'
-    "last_updated": today,
+    "last_updated": str(today),
     "commit": False,
 }
 
