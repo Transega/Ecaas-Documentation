@@ -11,6 +11,7 @@ Welcome to Enabling Crop Analytics at Scale's documentation!
    :caption: Contents:
 
    modules/about_Ecass.rst
+   modules/data_collection.rst
 
 
 
