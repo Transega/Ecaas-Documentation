@@ -17,6 +17,8 @@ c.  Planning field visits in tandem with crop and season.
 
 e.  Planning of Drone Image acquisition based on crop season and weather information and other flight Planning processes.
 
+f. Actual Data collection.
+
 
 *****************************
 Targeted Crops Identification
@@ -85,3 +87,35 @@ This was done by subdivision of the Agro-ecological zones into grids and generat
 be used to assign Enumerators the areas they need to cover for data collection exercise. 
 The same was also used to determine which areas drones would be flown to aid remote sensing data acquisition.
 
+*********************
+Planning Field Visits 
+*********************
+
+With the covid-19 situation field visits were somewhat a challenge, however field visits were planned based,
+on crop calender and protocals developed by PULA for various crops. 
+The protocal may entail in general;
+
+a. Box placement and farm boundary data collection(GPS location collected and images)
+
+b. In season visit for crop development reporting
+
+c. Wet harvest crop cut experiment 
+
+d. Dry harvest crop cut experiment
+
+**********************************
+Planning Drone Imagery acquisition
+**********************************
+
+Drone imagery acquisition was greatly influenced by areas that a crops are grown,
+Type of farming practises whether, inter and/or monocropping, the distribution of farmers geographically.
+Atmospheric conditions and permisions to fly were also part of the items that were consdered during planning and execution phase.
+
+**********************
+Actual Data Collection
+**********************
+
+This is a very crusial phase in the program and the afforementioned processes influeces the quality of data and efficiencies, 
+of the data collection activities. Therefore certain activities take place during this phase;
+
+a. Training of the Enumerators
