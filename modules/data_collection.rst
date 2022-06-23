@@ -72,3 +72,16 @@ this entailed analysis such as land and water productivity.
 Seasons that Crops are grown 
 ****************************
 
+Rainfall Data acquired together with other ancilalry data was used to determine the period with which 
+the crops were planted. On the other, remotely sensed data was used to study crop phenology and give an indication on when 
+each crop was planted and have estimates on other activities that precedes planting.
+
+****************************
+Stratification and Sampling 
+****************************
+
+After Identification of areas that the crops are grown, sampling techniquie was applied to come up with areas that would be visited.
+This was done by subdivision of the Agro-ecological zones into grids and generation random points that are equal for each grid, the grids would later
+be used to assign Enumerators the areas they need to cover for data collection exercise. 
+The same was also used to determine which areas drones would be flown to aid remote sensing data acquisition.
+
