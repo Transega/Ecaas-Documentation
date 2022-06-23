@@ -68,3 +68,7 @@ Thus, if crops were to be grown in an Agro-ecological zone they may have similar
 Vegetation indices were developed and integrated with the aforementioned datasets to form basis of crop suitability mapping,
 this entailed analysis such as land and water productivity. 
 
+****************************
+Seasons that Crops are grown 
+****************************
+
