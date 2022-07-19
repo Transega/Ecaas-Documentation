@@ -101,7 +101,7 @@ Special Appreciation to Tetra Tech, on the support granted during the project
 implementation phase. We also acknowledge the support from our partners in Kenya,
 and Zambia 
 
-Lincense
+License
 --------
 
 Bird's- Eye Project is an open-source project, licensed under the GNU General 
