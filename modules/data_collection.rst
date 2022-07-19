@@ -31,12 +31,14 @@ was majorly on crops that are widely grown by majorly small holder farmers in th
 The program also sought to provide data for these crops that are widely grown with no existic publicly available 
 datasets and thus bringing about predictability since, data would be available, for simulation of future seasons and prediction.
 Moreover, the program brings about an oportunity to understand spatial and temporal distribuition of crops, information on growing period and 
-various challenges that farmers go through. This would later inturn inform product development at PULA, patners and authorities.
+various challenges that farmers go through. This would later inturn inform product development at `PULA`_, patners and authorities.
+
+
 
 *The crops were identified through various means;*
 
 Research was done on the major crops small holder farmers grow through reading of publicly available reports.
-It was also complemented with resources available at PULA where there a dedicated call center that was used as 
+It was also complemented with resources available at `PULA`_ where there a dedicated call center that was used as 
 a reference to get views directly from calls made to farmers. Enumerators were also used in finding out distribuition and crop types grown 
 accross different areas. 
 
@@ -82,7 +84,7 @@ each crop was planted and have estimates on other activities that precedes plant
 Stratification and Sampling 
 ****************************
 
-After Identification of areas that the crops are grown, sampling techniquie was applied to come up with areas that would be visited.
+After Identification of areas that the crops are grown, sampling technique was applied to come up with areas that would be visited.
 This was done by subdivision of the Agro-ecological zones into grids and generation random points that are equal for each grid, the grids would later
 be used to assign Enumerators the areas they need to cover for data collection exercise. 
 The same was also used to determine which areas drones would be flown to aid remote sensing data acquisition.
@@ -92,8 +94,8 @@ Planning Field Visits
 *********************
 
 With the covid-19 situation field visits were somewhat a challenge, however field visits were planned based,
-on crop calender and protocals developed by PULA for various crops. 
-The protocal may entail in general;
+on crop calender and protocals developed by `PULA`_ for various crops. 
+The protocal;
 
 a. Box placement and farm boundary data collection(GPS location collected and images)
 
@@ -119,3 +121,5 @@ This is a very crusial phase in the program and the afforementioned processes in
 of the data collection activities. Therefore certain activities take place during this phase;
 
 a. Training of the Enumerators
+
+.. _PULA: https://www.pula-advisors.com/
