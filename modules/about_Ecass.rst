@@ -49,19 +49,42 @@ This project was Implementated by  `Pula Advisors`_.
 Contributors to this project were drawn from different departments including;  
 
 * President and co-founder(s);
-    Ms. Rose Goslinga, Mr Thomas Njeru
+   `Ms. Rose Goslinga`_, `Mr. Thomas Njeru`_
 
 * Applied Research
-    Mr. Mwenda Mugendi, Mr. Stephen Korir, Mr Elijah Njoroge, Mr. Collins Asega
+    `Mr. Mwenda Mugendi`_, `Mr. Stephen Korir`_, `Mr. Collins Asega`_, Mr Elijah Njoroge
+
+.. _Mr. Stephen Korir: https://www.linkedin.com/in/kory-korir-agdata-scientist-88260575/
+.. _Mr. Mwenda Mugendi: https://www.linkedin.com/in/mwendamugendi/
+.. _Mr. Collins Asega: https://www.linkedin.com/in/collins-asega-724022150/
+.. _Ms. Rose Goslinga: https://www.linkedin.com/in/rose-goslinga-523926b3/
+.. _Mr. Thomas Njeru: https://www.linkedin.com/in/thomas-njeru-75850028/
 
 * Innovations 
-    Mr. Cristain Andrei, Dr. Sudhakar Manda, Mr. Steve Kogo, Mr. Francis Amani
+    `Mr. Cristain Andrei`_, `Dr. Sudhakar Manda`_, `Mr. Stephen Kogo`_, `Mr. Francis Amani`_
+
+.. _Mr. Cristain Andrei: https://www.linkedin.com/in/cristianandreiandriesei/
+.. _Dr. Sudhakar Manda: https://www.linkedin.com/in/sudhakarmanda/
+.. _Mr. Stephen Kogo: https://www.linkedin.com/in/kiplimo-stephen-4527b141/ 
+.. _Mr. Francis Amani: https://www.linkedin.com/in/francis-amani/
+
 
 * Partnerships
-    Ms. Lulu Saida, Ms. Esther Mwadime
+    `Ms. Lulu Saida`_, `Ms. Esther Mwadime`_
+
+.. _Ms. Lulu Saida: https://www.linkedin.com/in/saida-lulu-2b108b66/
+.. _Ms. Esther Mwadime: https://www.linkedin.com/in/esther-mwadime-28a8196a/ 
 
 * Field Operations 
-    Mr. James Obarowski, Ms. Agnes Kanjala, Ms. Viola Lwenje, Mr. Edwin Kiptoo, Mr. Wesley Kirui, Ms. Everlyne Wabuyabo
+    `Mr. James Obarowski`_, `Ms. Agnes Kanjala`_, `Ms. Viola Lwenje`_, `Mr. Edwin Kiptoo`_, `Mr. Wesley Kirui`_, Ms. Everlyne Wabuyabo, Mr Daniel Mbuvi
+
+.. _Mr. James Obarowski: https://www.linkedin.com/in/jamesobarowski/
+.. _Ms. Agnes Kanjala: https://www.linkedin.com/in/agneskanjala/
+.. _Ms. Viola Lwenje: https://www.linkedin.com/in/viola-lwenje-bb3742154/
+.. _Mr. Edwin Kiptoo: https://www.linkedin.com/in/edwin-kiptoo-3a831940/
+.. _Mr. Wesley Kirui: https://www.linkedin.com/in/wesleykirui/
+
+
 
 
 
