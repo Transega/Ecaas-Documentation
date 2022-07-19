@@ -18,11 +18,13 @@ sys.path.insert(0, os.path.abspath('..'))
 
 today = date.today()
 
+year = today.year
+
 
 # -- Project information -----------------------------------------------------
 
 project = 'Enabling Crop Analytics at Scale'
-copyright = '2022, Pula'
+copyright = str(year)+', Pula'
 author = 'Mr Mwenda Mungendi, Stephen Korir, Lulu Saida, Elijah Njoroge'
 
 # The full version, including alpha/beta/rc tags
