@@ -2,22 +2,26 @@
 Background Information
 #######################
 
-Welcome to the technical documentation of Enabling Crop Analytics at Scale (ECAAS).
+Welcome to the technical documentation of the Bird's-Eye project, 
+a collaboration between Pula and Tetra Tech under the Enabling Crop Analytics at Scale Project. 
+This work, funded by the Bill & Melinda Gates Foundation, 
+is meant to foster the collection of Ground truth georeferenced 
+Agriculture labelled datasets that would improve predictive analytics in 
+smallholder agriculture, through the use of Artificial intelligence and Machine Learning (AI/ML) and satellite imagery.
 
-ECAAS project is an initiative by Tetra Tech firm, funded by Melinda and Bill Foundation 
-whose main aim is to foster collection of Ground truth georeferenced Agriculture 
-labelled datasets that would improve predictive analytics in smallholder agriculture, 
-through use of Artificial intelligence, Machhine Learning (AI/ML) and satellite imagery.
+The twenty-first century has presented the most devastating effects of climate change, 
+especially in sub-Saharan Africa. These effects are packaged with climate variability that adversely affects small-holder farmers.
 
-The twenty-first century has presented the most devastating effects on climate change,especially in the sub-saharan Africa.
-These effects are packaged with climate variability that adversely affects small-holder farmers. Towards resilience building,
-agricultural statistics and farm evidences is proving a key variable towards mitigating effects of climate change. However, these activities have 
-been faced with challenges in data gaps that can be used to train and validate machine learning and artifical intelligence models. 
+Towards resilience building, agricultural statistics and farm evidence is proving a key variable in mitigating 
+the effects of climate change. However, these activities have been faced with challenges in data gaps that can 
+be used to train and validate machine learning and artificial intelligence models.
 
-Agricultural statistics (Ag-stats) entails generation of georeferenced farm information including basic information such as land ownership and size.
-Ag-stats information will enabale the consequent support in generating scientifc information, including crop-type mapping, and the 
-generation of crop-masks in different agro-ecological zones. With accurate crop masks data, yield forecasting will then be possible, of which 
-a ripple effect on mitigation measures and prepairdness on food security policy can be achieved.
+Agricultural statistics (ag-stats) entails the generation of geo-referenced farm information including 
+basic information such as land ownership and size. Ag-stats information will enable the consequent support 
+in generating scientific information, including crop-type mapping, and the generation of crop masks in different agro-ecological zones.
+
+With accurate crop masks data, yield forecasting will then be possible, of which a ripple 
+effect on mitigation measures and preparedness on food security policy can be achieved.
 
 
 
@@ -100,8 +104,8 @@ and Zambia
 Lincense
 --------
 
-ECAAS Project is a free and open-source system, that is lincesed under 
-the GNU General Public Lincense, Version 2.0 or later.
+Bird's- Eye Project is an open-source project, licensed under the GNU General 
+Public License, Version 2.0 or later.
 
 *Note!*
 
