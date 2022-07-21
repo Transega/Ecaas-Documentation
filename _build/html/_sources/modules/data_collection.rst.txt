@@ -117,8 +117,9 @@ Atmospheric conditions and permisions to fly were also part of the items that we
 Actual Data Collection
 **********************
 
-This is a very crusial phase in the program and the afforementioned processes influeces the quality of data and efficiencies, 
-of the data collection activities. Therefore certain activities take place during this phase;
+This is a very crucial phase in the program since, it influeces the quality of data. How the process is undertaken affects the 
+efficiency of the data collection activity(s). Therefore certain activities have to occur during this phase in order to get 
+things right these includes;
 
 a. Training of the Enumerators
 
