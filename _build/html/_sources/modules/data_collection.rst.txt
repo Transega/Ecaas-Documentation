@@ -109,9 +109,9 @@ d. Dry harvest crop cut experiment
 Planning Drone Imagery acquisition
 **********************************
 
-Drone imagery acquisition was greatly influenced by areas that a crops are grown,
-Type of farming practises whether, inter and/or monocropping, the distribution of farmers geographically.
-Atmospheric conditions and permisions to fly were also part of the items that were consdered during planning and execution phase.
+Drone imagery acquisition was greatly influenced by areas that crops are grown,
+Type of farming practises; (inter and/or monocropping), the distribution of farmers geographically.
+Atmospheric conditions and permissions to fly were also part of the items that were consdered during planning and execution phase.
 
 **********************
 Actual Data Collection
