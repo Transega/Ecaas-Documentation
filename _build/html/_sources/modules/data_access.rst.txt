@@ -36,3 +36,25 @@ iii. Editing polygons they may have inconsistenties with farm boundaries by look
 iv. Move the points that may have been collected but due to some reasons they have offsets to the farms 
 
 v. Check for duplicate polygons
+
+
+*************
+Data Analysis
+*************
+
+To demonstrate the use of this datasets it is vital to do data analytics to generate some products that 
+would in the long run enable farm analytics at scale. 
+
+The following were undertaken;
+
+a. Phenological analysis of the farms with respect to crops grown to establish the growth patterns.
+
+b. Generation of vegetation indices from the drone imagery collected during the data collection.
+
+c. Preparation of the datasets for use in machine learning for;
+    i. Farm boundary detection
+    ii. Yield prediction and 
+    iii. crop masks development.
+
+
+
