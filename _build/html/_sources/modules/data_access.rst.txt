@@ -2,7 +2,7 @@
 Data Processing & Access
 ########################
 
-After Data is collected and submiited to the servers from the mobile application by the Enumerators,
+After Data is collected and submitted to the servers from the mobile application by the Enumerators,
 Data pipeline has already been set to establish the quality of data and flag out data that may be invalid.
 This is done by some automated scripts dedicated in assisting the process to be as efficient as possible as well as 
 replicable accross different areas. 
@@ -55,6 +55,11 @@ c. Preparation of the datasets for use in machine learning for;
     i. Farm boundary detection
     ii. Yield prediction and 
     iii. crop masks development.
+
+
+***********
+Data Access
+***********
 
 
 
