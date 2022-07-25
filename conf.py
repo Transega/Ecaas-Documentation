@@ -24,7 +24,7 @@ year = today.year
 # -- Project information -----------------------------------------------------
 
 project = 'Enabling Crop Analytics at Scale'
-copyright = str(year)+', Pula'
+copyright = str(year)+', PULA'
 author = 'Mr Mwenda Mungendi, Stephen Korir, Lulu Saida, Elijah Njoroge'
 
 # The full version, including alpha/beta/rc tags

@@ -25,4 +25,10 @@ cleaning the data.
 
 During this phase the following activities took place;
 
-i. 
+i. Checking polygons if then fall withing farm boundaries.
+
+ii. Editing polygons they may have inconsistenties with farm boundaries.
+
+iii. Move the points that may have been collected but due to some reasons they have offsets to the farms 
+
+iv. Check for duplicate polygons
