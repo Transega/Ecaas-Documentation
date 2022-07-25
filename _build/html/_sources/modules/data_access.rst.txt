@@ -27,7 +27,7 @@ During this phase the following activities took place;
 
 i. Ensure the data has the correct map projection(s) 
 
-ii. Checking polygons if then fall withing farm boundaries.
+ii. Checking polygons if then fall within farm boundaries.
     *This was done by visualizing the data on a GIS tool, and having satellite imagery as the basemap, in some instances
     the drone imagery was used as the base image.*
 
@@ -54,7 +54,7 @@ b. Generation of vegetation indices from the drone imagery collected during the 
 c. Preparation of the datasets for use in machine learning for;
     i. Farm boundary detection
     ii. Yield prediction and 
-    iii. crop masks development.
+    iii. Crop masks development.
 
 
 ***********
