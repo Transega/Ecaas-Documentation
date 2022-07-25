@@ -121,6 +121,36 @@ This is a very crucial phase in the program since, it influeces the quality of d
 efficiency of the data collection activity(s). Therefore certain activities have to occur during this phase in order to get 
 things right these includes;
 
-a. Training of the Enumerators
+a. Define protocals for data collection for respective crops.
+
+b. Recruitment of Enumerators.
+
+c. Training of the Enumerators.
+
+d. Calling the farmrers to prepare them for the oncoming exercise.
+
+e. Calling the farmer to book appointment on when to carry out the exercise of Box placement.
+
+f. Box Placement 
+
+g. Harvest
+    i. Wet harvest 
+    ii. Dry harvest
+
+
+Box placement is a process whereby Enumerators set up a box using logs and ropes measuring 
+5 by 8 meters. Enumerators use a built a mobile application by `PULA`_ to collect the Geographical 
+co-ordinates of the boxes and the farm, this  information is then saved and awaits a number of processes,
+for data quality and further analysis. This can be done during growing phase of the plant or two to four weeks before harvest.
+
+Harvesting was done on the Placed box, whereby the Enumerator(s) and the farmer together havest and weigh the harvest, this is then 
+placed into an separate guny bag that is then put to dry and weighed and recoreded. This information is Crucial as it will help
+to generate coefficient(s) of moisture for a crop. The information together with photographs is Keyed into the mobile application and submiited to the servers.
+
+
+
+
+
+
 
 .. _PULA: https://www.pula-advisors.com/
