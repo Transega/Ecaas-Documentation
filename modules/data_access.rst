@@ -25,10 +25,14 @@ cleaning the data.
 
 During this phase the following activities took place;
 
-i. Checking polygons if then fall withing farm boundaries.
+i. Ensure the data has the correct map projection(s) 
 
-ii. Editing polygons they may have inconsistenties with farm boundaries.
+ii. Checking polygons if then fall withing farm boundaries.
+    *This was done by visualizing the data on a GIS tool, and having satellite imagery as the basemap, in some instances
+    the drone imagery was used as the base image.*
 
-iii. Move the points that may have been collected but due to some reasons they have offsets to the farms 
+iii. Editing polygons they may have inconsistenties with farm boundaries by looking at the base map.
 
-iv. Check for duplicate polygons
+iv. Move the points that may have been collected but due to some reasons they have offsets to the farms 
+
+v. Check for duplicate polygons
