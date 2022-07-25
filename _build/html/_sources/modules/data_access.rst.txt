@@ -61,5 +61,10 @@ c. Preparation of the datasets for use in machine learning for;
 Data Access
 ***********
 
+The datasets are archived by PULA, they are free and can be downloaded on the following links;
+
+PULA is open and committed to further engagements on data collection, product development as well as offering insurance 
+products to small holder farmers either through respective authories, farm co-perations and/or individual farmers.
+
 
 
