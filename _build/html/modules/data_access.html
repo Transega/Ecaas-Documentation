@@ -41,7 +41,10 @@
 <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="about_Ecass.html">Background Information</a></li>
 <li class="toctree-l1"><a class="reference internal" href="data_collection.html">Data Collection Process</a></li>
-<li class="toctree-l1 current"><a class="current reference internal" href="#">Data Processing &amp; Access</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Data Processing &amp; Access</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#data-cleaning">Data Cleaning</a></li>
+</ul>
+</li>
 </ul>
 
         </div>
@@ -68,6 +71,26 @@
              
   <section id="data-processing-access">
 <h1>Data Processing &amp; Access<a class="headerlink" href="#data-processing-access" title="Permalink to this headline"></a></h1>
+<p>After Data is collected and submiited to the servers from the mobile application by the Enumerators,
+Data pipeline has already been set to establish the quality of data and flag out data that may be invalid.
+This is done by some automated scripts dedicated in assisting the process to be as efficient as possible as well as
+replicable accross different areas.</p>
+<section id="data-cleaning">
+<h2>Data Cleaning<a class="headerlink" href="#data-cleaning" title="Permalink to this headline"></a></h2>
+<p>In order to have good quaity data the automation process of data cleaning considers looking at points collected that fall outside the Assigned
+areas of interest for the enumerator, Geographical location details of less accuracy <em>(&gt; 10m)</em>, fabricated photographs during farm visits and reported
+weight of harvest that is an outlier or a scenario where the dry harvest is more than the wet harvest.</p>
+<p>However, the process is not complete yet, as more data cleaning needs to done by looking at the farm boundaries by human eye in this case,
+a Geospatial expert to accertain the location of the data points and also look into the feasibility of using this data to
+train machine learning models.</p>
+<p>Given the importance this exercise the data collected by the Enumerators were subjuected to primary and secondary phases of data cleaning,
+with the primary stage being the automated scripts while the secondary phase, being use of a Geospatial tool by a Geospatial Expert in
+cleaning the data.</p>
+<p>During this phase the following activities took place;</p>
+<ol class="lowerroman simple">
+<li></li>
+</ol>
+</section>
 </section>
 
 

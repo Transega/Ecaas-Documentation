@@ -137,6 +137,8 @@ g. Harvest
     i. Wet harvest 
     ii. Dry harvest
 
+h. Quality Check 
+
 
 Box placement is a process whereby Enumerators set up a box using logs and ropes measuring 
 5 by 8 meters. Enumerators use a built a mobile application by `PULA`_ to collect the Geographical 
@@ -146,6 +148,7 @@ for data quality and further analysis. This can be done during growing phase of 
 Harvesting was done on the Placed box, whereby the Enumerator(s) and the farmer together havest and weigh the harvest, this is then 
 placed into an separate guny bag that is then put to dry and weighed and recoreded. This information is Crucial as it will help
 to generate coefficient(s) of moisture for a crop. The information together with photographs is Keyed into the mobile application and submiited to the servers.
+
 
 
 
