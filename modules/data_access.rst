@@ -28,8 +28,7 @@ During this phase the following activities took place;
 i. Ensure the data has the correct map projection(s) 
 
 ii. Checking polygons if then fall within farm boundaries.
-    *This was done by visualizing the data on a GIS tool, and having satellite imagery as the basemap, in some instances
-    the drone imagery was used as the base image.*
+    *This was done by visualizing the data on a GIS tool, and having satellite imagery as the basemap.*
 
 iii. Editing polygons they may have inconsistenties with farm boundaries by looking at the base map.
 
