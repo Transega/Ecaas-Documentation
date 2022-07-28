@@ -92,8 +92,7 @@ cleaning the data.</p>
 <ol class="lowerroman simple">
 <li><p>Ensure the data has the correct map projection(s)</p></li>
 <li><p>Checking polygons if then fall within farm boundaries.
-<em>This was done by visualizing the data on a GIS tool, and having satellite imagery as the basemap, in some instances
-the drone imagery was used as the base image.</em></p></li>
+<em>This was done by visualizing the data on a GIS tool, and having satellite imagery as the basemap.</em></p></li>
 <li><p>Editing polygons they may have inconsistenties with farm boundaries by looking at the base map.</p></li>
 <li><p>Move the points that may have been collected but due to some reasons they have offsets to the farms</p></li>
 <li><p>Check for duplicate polygons</p></li>
@@ -102,10 +101,22 @@ the drone imagery was used as the base image.</em></p></li>
 </section>
 <section id="info-about-data">
 <h2>Info about Data<a class="headerlink" href="#info-about-data" title="Permalink to this headline"></a></h2>
+<p>This section gives brief description of information about the data</p>
+<p><strong>Farm Polygon</strong> - The farm polygon shows the coordinates of the boundary of the crop in the farm. When we do a Crop Cutting experiment, we place boxes where we will harvest our yield. When we are collecting the farm polygon we ensure that the polygon is for the crop in question and encapsulate the boxes we place.
+We have represented the polygons as WKT(Well Known Text) which is an ASCII representation of a spatial object with WGS84 projection.</p>
+<p><strong>Case_ID</strong> - This is a unique identifier for the data points that we have created.</p>
+<p><strong>Crop type</strong> - We have different types of crops for the two countries which include; maize, groundnuts, Irish Potatoes, GreenGrams, Sorghum, Beans and Soya Beans.</p>
+<p><strong>Planting &amp; Harvesting Dates</strong> - We have included these in order to understand about the crops’ lifecycle from when the crop was planted to when it was harvested.</p>
+<p><strong>Season</strong> - In kenya we have two seasons, Short Rains and Long rains and in Zambia we only have one season, Main Season.</p>
+<p><strong>Crop Condition</strong> - We collect the crop condition at the time of Box Placement. At this time, the crops are at their vegeatative state, and using observation techniques, one can easily determine their state.</p>
+<p><strong>Intercropping</strong> - We collect data on intercropped fields, as most smallholder farmers prefer the aforementioned to maximize on the resources they have. If intercropped, we also name the crop that it has been intercropped with.</p>
+<p><strong>Administrative Boundaries</strong> - There are three levels of Admin Boundaries we were capturing, the Country being Level 0, upto to Adm Level 2.</p>
+<p><strong>Final Weight and Yield</strong> - We are collecting  weights of the crops from the boxes in (Kg) and changing them to yield per hectare depending on the size of the boxes which were majorly 8m by 5m boxes according to the Crop Cutting Protocols for the different crops that we used.</p>
 </section>
 <section id="data-access">
 <h2>Data Access<a class="headerlink" href="#data-access" title="Permalink to this headline"></a></h2>
 <p>The datasets are archived by PULA, they are free and can be downloaded on the following links;</p>
+<p><strong>Vector file in CSV format</strong> <a class="reference external" href="https://docs.google.com/spreadsheets/d/1IOOoFDlah5ahbTS6La5g544hHnCIV6c0ZlqdW1YS9uE/edit?usp=sharing">here</a></p>
 <p>PULA is open and committed to further engagements on data collection, product development as well as offering insurance
 products to small holder farmers either through respective authories, farm co-perations and/or individual farmers.</p>
 </section>
@@ -122,7 +133,7 @@ products to small holder farmers either through respective authories, farm co-pe
 
   <div role="contentinfo">
     <p>&#169; Copyright 2022, PULA.
-      <span class="lastupdated">Last updated on 2022-07-26.
+      <span class="lastupdated">Last updated on 2022-07-28.
       </span></p>
   </div>
 
