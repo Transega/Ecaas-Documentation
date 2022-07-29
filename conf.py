@@ -83,4 +83,4 @@ html_css_files = [
 ]
 
 # Build PDF & ePub
-formats = ['pdf', 'epub']
+# formats = ['pdf', 'epub']
