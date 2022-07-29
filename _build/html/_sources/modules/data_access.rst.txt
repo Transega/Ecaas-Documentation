@@ -2,9 +2,9 @@
 Data Processing & Access
 ########################
 
-After Data is collected and submitted to the servers from the mobile application by the Enumerators,
-Data pipeline has already been set to establish the quality of data and flag out data that may be invalid.
-This is done by some automated scripts dedicated in assisting the process to be as efficient as possible as well as 
+After Data is collected and submitted to the servers from the mobile application by the Enumerators.
+A Data pipeline has already been set to establish the quality of data and flag out data that may be invalid.
+This is done by some automated scripts dedicated to complete the process. Thereby, making it to be as efficient as possible as well as 
 replicable accross different areas. 
 
 *************
@@ -19,24 +19,24 @@ However, the process is not complete yet, as more data cleaning needs to done by
 a Geospatial expert to accertain the location of the data points and also look into the feasibility of using this data to 
 train machine learning models.
 
-Given the importance this exercise the data collected by the Enumerators were subjuected to primary and secondary phases of data cleaning, 
-with the primary stage being the automated scripts while the secondary phase, being use of a Geospatial tool by a Geospatial Expert in 
-cleaning the data.
+Given the importance this exercise the data collected by the Enumerators was subjuected to primary and secondary phases of data cleaning. 
+The primary phase being the automated scripts while, the secondary phase; being the use of a Geospatial tool by a Geospatial Expert in 
+data cleaning.
 
 During this phase the following activities took place;
 
-i. Ensure the data has the correct map projection(s) 
+i. Ensuring the data has the correct map projection(s). 
 
 ii. Checking polygons if then fall within farm boundaries.
     *This was done by visualizing the data on a GIS tool, and having satellite imagery as the basemap.*
 
 iii. Editing polygons they may have inconsistenties with farm boundaries by looking at the base map.
 
-iv. Move the points that may have been collected but due to some reasons they have offsets to the farms 
+iv. Moving the points that may have been collected but due to some reasons they have offsets to the farms.
 
-v. Check for duplicate polygons
+v. Checking for duplicate polygons.
 
-vi. Check for overlapping polygons
+vi. Checking for overlapping polygons.
 
 
 ***************

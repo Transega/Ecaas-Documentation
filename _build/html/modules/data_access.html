@@ -73,9 +73,9 @@
              
   <section id="data-processing-access">
 <h1>Data Processing &amp; Access<a class="headerlink" href="#data-processing-access" title="Permalink to this headline"></a></h1>
-<p>After Data is collected and submitted to the servers from the mobile application by the Enumerators,
-Data pipeline has already been set to establish the quality of data and flag out data that may be invalid.
-This is done by some automated scripts dedicated in assisting the process to be as efficient as possible as well as
+<p>After Data is collected and submitted to the servers from the mobile application by the Enumerators.
+A Data pipeline has already been set to establish the quality of data and flag out data that may be invalid.
+This is done by some automated scripts dedicated to complete the process. Thereby, making it to be as efficient as possible as well as
 replicable accross different areas.</p>
 <section id="data-cleaning">
 <h2>Data Cleaning<a class="headerlink" href="#data-cleaning" title="Permalink to this headline"></a></h2>
@@ -85,18 +85,18 @@ weight of harvest that is an outlier or a scenario where the dry harvest is more
 <p>However, the process is not complete yet, as more data cleaning needs to done by looking at the farm boundaries by human eye in this case,
 a Geospatial expert to accertain the location of the data points and also look into the feasibility of using this data to
 train machine learning models.</p>
-<p>Given the importance this exercise the data collected by the Enumerators were subjuected to primary and secondary phases of data cleaning,
-with the primary stage being the automated scripts while the secondary phase, being use of a Geospatial tool by a Geospatial Expert in
-cleaning the data.</p>
+<p>Given the importance this exercise the data collected by the Enumerators was subjuected to primary and secondary phases of data cleaning.
+The primary phase being the automated scripts while, the secondary phase; being the use of a Geospatial tool by a Geospatial Expert in
+data cleaning.</p>
 <p>During this phase the following activities took place;</p>
 <ol class="lowerroman simple">
-<li><p>Ensure the data has the correct map projection(s)</p></li>
+<li><p>Ensuring the data has the correct map projection(s).</p></li>
 <li><p>Checking polygons if then fall within farm boundaries.
 <em>This was done by visualizing the data on a GIS tool, and having satellite imagery as the basemap.</em></p></li>
 <li><p>Editing polygons they may have inconsistenties with farm boundaries by looking at the base map.</p></li>
-<li><p>Move the points that may have been collected but due to some reasons they have offsets to the farms</p></li>
-<li><p>Check for duplicate polygons</p></li>
-<li><p>Check for overlapping polygons</p></li>
+<li><p>Moving the points that may have been collected but due to some reasons they have offsets to the farms.</p></li>
+<li><p>Checking for duplicate polygons.</p></li>
+<li><p>Checking for overlapping polygons.</p></li>
 </ol>
 </section>
 <section id="info-about-data">

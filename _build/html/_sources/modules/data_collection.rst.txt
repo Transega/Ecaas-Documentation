@@ -2,7 +2,7 @@
 Data Collection Process
 #######################
 
-Data collection Entailed a couple of activities that are important in order to allow for accurate representation of the dataset.
+Data collection entailed a couple of activities that are important in order to allow for accurate representation of the dataset.
 Moreover, the project also envisaged that not only vector gesopatial datasets are collected but also raster datasets.
 
 a.  Identification of the targeted crops in each of the countries of interest.
@@ -28,8 +28,8 @@ The crops were targeted based on the impact envisaged for this program, this is 
 is supposed to offer crop analytics at scale. Therefore the rationale for identification of crops 
 was majorly on crops that are widely grown by majorly small holder farmers in the countries of interest.
 
-The program also sought to provide data for these crops that are widely grown with no existic publicly available 
-datasets and thus bringing about predictability since, data would be available, for simulation of future seasons and prediction.
+The program also sought to provide data for these crops that are widely grown with no existing publicly available 
+datasets and thus bringing about predictability since, data would be available, for simulation of future seasons and yield prediction.
 Moreover, the program brings about an oportunity to understand spatial and temporal distribuition of crops, information on growing period and 
 various challenges that farmers go through. This would later in turn inform product development at `PULA`_, patners and authorities.
 
@@ -38,7 +38,7 @@ various challenges that farmers go through. This would later in turn inform prod
 **The crops were identified through various means;**
 
 Research was done on the major crops small holder farmers grow through reading of publicly available reports.
-It was also complemented with resources available at `PULA`_ where there a dedicated call center that was used as 
+It was also complemented with resources available at `PULA`_ where there is a dedicated call center that was used as 
 a reference to get views directly from calls made to farmers. Enumerators were also used in finding out distribuition and crop types grown 
 accross different areas. 
 
@@ -76,7 +76,7 @@ this entailed analysis such as land and water productivity.
 Seasons that Crops are grown 
 ****************************
 
-Rainfall Data acquired together with other ancilalry data was used to determine the period with which 
+Rainfall Data acquired together with other ancillary data was used to determine the period with which 
 the crops were planted. On the other, remotely sensed data was used to study crop phenology and give an indication on when 
 each crop was planted and have estimates on other activities that precedes planting.
 
