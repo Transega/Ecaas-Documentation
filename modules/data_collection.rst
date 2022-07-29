@@ -31,11 +31,11 @@ was majorly on crops that are widely grown by majorly small holder farmers in th
 The program also sought to provide data for these crops that are widely grown with no existic publicly available 
 datasets and thus bringing about predictability since, data would be available, for simulation of future seasons and prediction.
 Moreover, the program brings about an oportunity to understand spatial and temporal distribuition of crops, information on growing period and 
-various challenges that farmers go through. This would later inturn inform product development at `PULA`_, patners and authorities.
+various challenges that farmers go through. This would later in turn inform product development at `PULA`_, patners and authorities.
 
 
 
-*The crops were identified through various means;*
+**The crops were identified through various means;**
 
 Research was done on the major crops small holder farmers grow through reading of publicly available reports.
 It was also complemented with resources available at `PULA`_ where there a dedicated call center that was used as 
@@ -140,12 +140,12 @@ g. Harvest
 h. Quality Check 
 
 
-Box placement is a process whereby Enumerators set up a box using logs and ropes measuring 
+Box placement is a process whereby, Enumerators set up a box using logs and ropes measuring 
 5 by 8 meters. Enumerators use a built a mobile application by `PULA`_ to collect the Geographical 
 co-ordinates of the boxes and the farm, this  information is then saved and awaits a number of processes,
 for data quality and further analysis. This can be done during growing phase of the plant or two to four weeks before harvest.
 
-Harvesting was done on the Placed box, whereby the Enumerator(s) and the farmer together havest and weigh the harvest, this is then 
+Harvesting was done inside the Placed box, whereby the Enumerator(s) and the farmer together havest and weigh the harvest, this is then 
 placed into an separate guny bag that is then put to dry and weighed and recoreded. This information is Crucial as it will help
 to generate coefficient(s) of moisture for a crop. The information together with photographs is Keyed into the mobile application and submiited to the servers.
 

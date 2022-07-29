@@ -71,14 +71,17 @@ We have represented the polygons as WKT(Well Known Text) which is an ASCII repre
 Data Access
 ***********
 
-The datasets are archived by PULA, they are free and can be downloaded on the following links;
+The datasets are archived by `PULA`_, they are free and can be downloaded on the following links;
 
 **Vector file in CSV format** `here`_
 
 .. _here: https://docs.google.com/spreadsheets/d/1IOOoFDlah5ahbTS6La5g544hHnCIV6c0ZlqdW1YS9uE/edit?usp=sharing
 
-PULA is open and committed to further engagements on data collection, product development as well as offering insurance 
+`PULA`_ is open and committed to further engagements on data collection, product development as well as offering insurance 
 products to small holder farmers either through respective authories, farm co-perations and/or individual farmers.
+
+
+.. _PULA: https://www.pula-advisors.com/
 
 
 
